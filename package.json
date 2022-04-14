@@ -1,0 +1,24 @@
+{
+  "name": "react-storybook-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hyoni0817: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@github.com/hyoni0817/react-storybook-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyoni0817/react-storybook-practice/issues"
+  },
+  "homepage": "https://github.com/hyoni0817/react-storybook-practice#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
