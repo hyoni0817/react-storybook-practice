@@ -9,11 +9,8 @@
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://hyoni0817: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@github.com/hyoni0817/react-storybook-practice.git"
-  },
-  "author": "",
+  "repository": "git+https://hyoni0817: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@github.com/hyoni0817/react-storybook-practice.git",
+  "author": "hyoni0817 <hyoni0817@naver.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hyoni0817/react-storybook-practice/issues"
