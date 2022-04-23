@@ -1,5 +1,8 @@
 {
-  "presets": ["next/babel"],
+  "presets": [
+    ["next/babel"],
+    ["@babel/env", { "targets": { "node": 6 } }] // to fix it
+  ],
   "plugins": [
     [
       "styled-components",
